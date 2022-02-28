@@ -1,0 +1,52 @@
+{
+    "signUp": {
+        "name": "Leandro Leal",
+            "cpf": "00004500059",
+            "email": "leandroleal@gmail.com",
+            "whatsapp": "61994064949",
+            "address": {
+                "postalcode": "71590333",
+                "street": "Quadra 2 Conjunto K",
+                "number": "9",
+                "details": "Itapoã I",
+                "district": "Itapoã I",
+                "city_state": "Brasília/DF"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv" :{
+        "name": "José Silva",
+        "cpf": "000A45000X",
+        "email": "josesilva@gmail.com",
+        "whatsapp": "6130447878",
+        "address": {
+            "postalcode": "71540035",
+            "street": "SMLN MI Trecho 03",
+            "number": "57",
+            "details": "Vale do Palha",
+            "district": "Setor de Mansões do Lago Norte",
+            "city_state": "Brasília/DF"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Leandro Leal",
+            "cpf": "00004500059",
+            "email": "invalid.email.com",
+            "whatsapp": "61994064949",
+            "address": {
+                "postalcode": "71590333",
+                "street": "Quadra 2 Conjunto K",
+                "number": "9",
+                "details": "Itapoã I",
+                "district": "Itapoã I",
+                "city_state": "Brasília/DF"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    }
+}
